@@ -1,4 +1,4 @@
-# 🏦 BankNet - Okul Projesi
+# 🏦 BankaNet - Okul Projesi
 
 ---
 
