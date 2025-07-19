@@ -1,4 +1,4 @@
-# 🏦 BankNet - School Project
+# 🏦 BankaNet - School Project
 
 ---
 
